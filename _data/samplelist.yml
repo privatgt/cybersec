@@ -1,0 +1,34 @@
+folders:
+- title: Բովանդակություն
+  folderitems:
+  - title: Զրոյական մակարդակ
+    subfolderitems:
+    -  title: Ինչ է պինթեստը - #pentest0
+    -  title: Վարվեցողության կանոններ - #pentest1
+    -  title Pentestի փուլերը - #pentest2
+  - Առաջին մակարդակ - #level1 
+    subfolderitems:
+    - title: Խոցելիութիան հայտնաբերման մեթոդոլոգիաներ - #pentest3
+       subsubfolderitems:
+       - title: OSSTMM - #pentest4
+       - title: OWASP - #pentest5
+       - title: NIST Security Framework - #pentest6
+       - title: NCSC CAF - #pentest7
+    - title: Open Sourceի մասին - #pentest8
+    - title: Հաքերների տիպերը - #pentest9
+    - title: Որոնք են gray և white-box-երը - #pentest10
+  - 2րդ մակարդակ - #level2
+    subfolderitems:
+      - Օպերացիոն Համակարգերի կառուցվածքը - #pentest11 
+       subsubfolderitems:
+         - title: Kernel-ի մասին - #pentest12
+         - title: Shell-ի մասին - #pentest13
+         - title: ՕՀ-երի կողմից կառավարվող ռեսուրսների մասին - #pentest14
+         - title: Բազմաֆունկցիոնալ միջավայրեր - #pentest15
+         - title: Ծրագրեր և ծառայություններ - #pentest16
+     - title: Վիրտուալ հիշողություն - #pentest17
+     - title: Բեռնում ֊ #pentest18
+     - title: Windows NT - #pentest19
+     - title: Linux-ի ծրագրային կոդի դասավորությունը - #pentest20
+     - title: Linux միջուկի մասին ֊ #pentest21
+     - title: Windows֊ի և Linux֊ի տարբերությունները - #pentest22

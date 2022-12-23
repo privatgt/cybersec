@@ -1,34 +1,40 @@
-folders:
-- title: Բովանդակություն
-  folderitems:
-  - title: Զրոյական մակարդակ
+toc2:
+  - title: Group 1
     subfolderitems:
-    -  title: Ինչ է պինթեստը - #pentest0
-    -  title: Վարվեցողության կանոններ - #pentest1
-    -  title Pentestի փուլերը - #pentest2
-  - Առաջին մակարդակ - #level1 
+      - page: Thing 1
+        url: /thing1.html
+      - page: Thing 2
+        url: /thing2.html
+        subsubfolderitems:
+          - page: Subthing 1
+            url: /subthing1.html
+          - page: Subthing 2
+            url: /subthing2.html
+      - page: Thing 3
+        url: /thing3.html
+  - title: Group 2
     subfolderitems:
-    - title: Խոցելիութիան հայտնաբերման մեթոդոլոգիաներ - #pentest3
-       subsubfolderitems:
-       - title: OSSTMM - #pentest4
-       - title: OWASP - #pentest5
-       - title: NIST Security Framework - #pentest6
-       - title: NCSC CAF - #pentest7
-    - title: Open Sourceի մասին - #pentest8
-    - title: Հաքերների տիպերը - #pentest9
-    - title: Որոնք են gray և white-box-երը - #pentest10
-  - 2րդ մակարդակ - #level2
+      - page: Piece 1
+        url: /piece1.html
+      - page: Piece 2
+        url: /piece2.html
+      - page: Piece 3
+        url: /piece3.html
+        subsubfolderitems:
+          - page: Subpiece 1
+            url: /subpiece1.html
+          - page: Subpiece2
+            url: /subpiece2.html
+  - title: Group 3
     subfolderitems:
-      - Օպերացիոն Համակարգերի կառուցվածքը - #pentest11 
-       subsubfolderitems:
-         - title: Kernel-ի մասին - #pentest12
-         - title: Shell-ի մասին - #pentest13
-         - title: ՕՀ-երի կողմից կառավարվող ռեսուրսների մասին - #pentest14
-         - title: Բազմաֆունկցիոնալ միջավայրեր - #pentest15
-         - title: Ծրագրեր և ծառայություններ - #pentest16
-     - title: Վիրտուալ հիշողություն - #pentest17
-     - title: Բեռնում ֊ #pentest18
-     - title: Windows NT - #pentest19
-     - title: Linux-ի ծրագրային կոդի դասավորությունը - #pentest20
-     - title: Linux միջուկի մասին ֊ #pentest21
-     - title: Windows֊ի և Linux֊ի տարբերությունները - #pentest22
+      - page: Widget 1
+        url: /widget1.html
+        subsubfolderitems:
+          - page: Subwidget 1
+            url: /subwidget1.html
+          - page: Subwidget 2
+            url: /subwidget2.html
+      - page: Widget 2
+        url: /widget2.html
+      - page: Widget 3
+        url: /widget3.html
